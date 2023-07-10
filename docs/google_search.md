@@ -1,6 +1,6 @@
 # Google Search Tool
 
-Use the Google Search API to search the web in ChatGanjarKeren.
+Use the Google Search API to search the web in ChatPolrestaMalang.
 
 ## How To Enable
 
